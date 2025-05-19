@@ -19,8 +19,11 @@ function Navbar() {
           </span>
         </div>
         <div className=" flex items-center gap-2 md:gap-4">
-          <a href="" className=" text-white text-sm font-semibold">
-            ARTS
+          <a
+            href="https://pump.fun/coin/Zh6Pswu1yQsULdxHpQydcPk8XBxynYejrapSeD6pump"
+            className=" text-white text-sm font-semibold"
+          >
+            CA
           </a>
           <a href="" className=" text-white text-sm font-semibold">
             ABOUT US
