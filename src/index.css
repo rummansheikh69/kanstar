@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans+Arabic:wght@100..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Playpen Sans Arabic", cursive;
+}
+
+.font-asthetic {
+  font-family: "Anton", sans-serif;
+}
+
+.text-stroke-3 {
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black,
+    1px 1px 0 black;
+}
+.text-stroke-4 {
+  text-shadow: 2px 2px 0 black, 1px -1px 0 black, -2px 2px 0 black,
+    5px 5px 0 black;
+}
+
+.button-shadow {
+  box-shadow: 1px 10px 0px -5px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px 10px 0px -5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 10px 0px -5px rgba(0, 0, 0, 0.75);
+}
