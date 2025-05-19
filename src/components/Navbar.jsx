@@ -20,7 +20,7 @@ function Navbar() {
         </div>
         <div className=" flex items-center gap-2 md:gap-4">
           <a href="" className=" text-white text-sm font-semibold">
-            NFTS
+            ARTS
           </a>
           <a href="" className=" text-white text-sm font-semibold">
             ABOUT US
