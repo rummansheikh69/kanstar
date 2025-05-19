@@ -85,9 +85,9 @@ function About() {
             <div className=" md:grid grid-cols-12 gap-4">
               <div className="  text-zinc-50 text-3xl col-span-7">
                 <p>
-                  A vibrant “cosmic good-boy” NFT collection powering a whole
-                  gamified ecosystem on Ronin—think lovable mascot + community
-                  badge + growth engine all rolled into one.
+                  A vibrant “cosmic good-boy” Memecoin collection powering a
+                  whole gamified ecosystem on Ronin—think lovable mascot +
+                  community badge + growth engine all rolled into one.
                 </p>
                 <br />
                 <p>

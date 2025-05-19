@@ -12,7 +12,7 @@ function Nft() {
         <img src="images/divider.svg" alt="" />
       </div>
       <h1 className=" text-center font-asthetic text-4xl mt-10 text-zinc-800">
-        MEMECOIN
+        CHECK OUT OUR ART
       </h1>
       <div className=" px-5 md:px-20 mt-20">
         <div className=" grid grid-cols-2 md:grid-cols-4 gap-10">
