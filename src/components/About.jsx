@@ -5,7 +5,7 @@ function About() {
     <div className="w-full border-b-4 border-black">
       <div className=" w-full py-8 border-b-4 border-black">
         <h1 className="text-center text-3xl md:text-7xl font-asthetic text-zinc-800 font-medium ">
-          DISCOVR THE KANSTARWORLDs
+          DISCOVR THE KANSTARWORLD
         </h1>
       </div>
       <div className=" w-full bg-[#A17DB3] ">
