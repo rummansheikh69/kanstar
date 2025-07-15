@@ -5,7 +5,7 @@ function About() {
     <div className="w-full border-b-4 border-black">
       <div className=" w-full py-8 border-b-4 border-black">
         <h1 className="text-center text-3xl md:text-7xl font-asthetic text-zinc-800 font-medium ">
-          DISCOVR THE KANSTARWORLD
+          DISCOVR THE $GLORBZ
         </h1>
       </div>
       <div className=" w-full bg-[#A17DB3] ">
@@ -49,26 +49,24 @@ function About() {
             {/* last text  */}
             <div className=" flex items-center text-[#ECE8D7]  leading-3">
               <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-                K
+                G
               </span>
               <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                A
+                L
               </span>
               <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                N
+                O
               </span>
               <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                S
-              </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-                T
-              </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-                A
-              </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-2  text-stroke-4 tracking-wider">
                 R
               </span>
+              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
+              B
+              </span>
+              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
+                Z
+              </span>
+             
               <span className=" text-9xl  font-medium font-asthetic  ml-14 text-[#98ED1D] -mt-5  -rotate-12  text-stroke-4 tracking-wider">
                 ?
               </span>
@@ -93,7 +91,7 @@ function About() {
                 <p>
                   Holders unlock merch royalties, creator-education perks, early
                   game playtests & airdrops, special roles in KIND’s galaxy, and
-                  future revenue share from Kanstar-branded games, toys, and
+                  future revenue share from $GLORBZ-branded games, toys, and
                   even eco-lodge tokenization.
                 </p>
               </div>
@@ -128,7 +126,7 @@ function About() {
                   MORE TO
                 </h1>
                 <h1 className=" text-8xl text-[#ECE8D7] font-asthetic text-center text-stroke-3">
-                  KANSTAR
+                  $GLORBZ
                 </h1>
                 <button className=" text-sm hover:scale-90 transition-all w-full py-2  button-shadow bg-[#ECE8D7] border border-black rounded-full font-medium">
                   <a
