@@ -5,7 +5,7 @@ function Nft() {
     <div className=" w-full">
       <div className=" w-full py-8 border-b-4 border-black">
         <h1 className="text-center text-5xl font-asthetic text-zinc-800 font-medium ">
-          JOIN TO THE WORLD OF KANSTAR
+          JOIN TO THE WORLD OF $GLORBZ
         </h1>
       </div>
       <div className=" flex items-center justify-center mt-10">
