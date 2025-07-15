@@ -15,7 +15,7 @@ function Navbar() {
             />
           </div>
           <span className=" text-white font-semibold text-base md:text-2xl mt-1">
-            KANSTAR
+            $GLORBZ
           </span>
         </div>
         <div className=" flex items-center gap-2 md:gap-4">
