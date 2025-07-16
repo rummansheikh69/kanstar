@@ -1,5 +1,7 @@
 import React from "react";
 import { FaTelegramPlane, FaTwitter } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+
 
 function Footer() {
   return (
@@ -12,8 +14,8 @@ function Footer() {
               <FaTwitter className=" w-6 h-6" />
             </a>
 
-            <a href="https://t.me/kanstarsolana" target="_blank">
-              <FaTelegramPlane className="w-6 h-6" />
+            <a href="https://x.com/i/communities/1945288692542922955" target="_blank">
+              <FaXTwitter className="w-6 h-6" />
             </a>
           </div>
         </div>
