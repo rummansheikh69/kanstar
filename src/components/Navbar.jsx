@@ -22,7 +22,7 @@ function Navbar() {
         </div>
         <div className=" flex items-center gap-2 md:gap-4">
           <a
-            href="https://pump.fun/coin/Zh6Pswu1yQsULdxHpQydcPk8XBxynYejrapSeD6pump"
+            href="https://letsbonk.fun/token/D2nxAYxGc1W9VonYZ794ydoftW6GuccN6bn7eahsbonk"
             className=" text-white text-sm font-semibold"
           >
             CA
