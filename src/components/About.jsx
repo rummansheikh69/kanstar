@@ -130,10 +130,10 @@ function About() {
                 </h1>
                 <button className=" text-sm hover:scale-90 transition-all w-full py-2  button-shadow bg-[#ECE8D7] border border-black rounded-full font-medium">
                   <a
-                    href="https://pump.fun/coin/Zh6Pswu1yQsULdxHpQydcPk8XBxynYejrapSeD6pump"
+                    href="https://letsbonk.fun/token/D2nxAYxGc1W9VonYZ794ydoftW6GuccN6bn7eahsbonk"
                     target="_blank"
                   >
-                    Zh6Pswu1yQsULdxHpQydcPk8XBxynYejrapSeD6pump
+                    D2nxAYxGc1W9VonYZ794ydoftW6GuccN6bn7eahsbonk
                   </a>
                 </button>
               </div>
