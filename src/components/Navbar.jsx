@@ -1,6 +1,8 @@
 import React from "react";
 import { FaTwitter } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+
 
 function Navbar() {
   return (
@@ -38,11 +40,11 @@ function Navbar() {
             <FaTwitter className=" w-6 h-6 hover:text-zinc-200" />
           </a>
           <a
-            href="https://t.me/kanstarsolana"
+            href="https://x.com/i/communities/1945288692542922955"
             target="_blank"
             className=" text-white font-semibold"
           >
-            <FaTelegramPlane className=" w-6 h-6 hover:text-zinc-200" />
+            <FaXTwitter className=" w-6 h-6 hover:text-zinc-200" />
           </a>
         </div>
       </div>
