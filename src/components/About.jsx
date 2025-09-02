@@ -5,7 +5,7 @@ function About() {
     <div className="w-full border-b-4 border-black">
       <div className=" w-full py-8 border-b-4 border-black">
         <h1 className="text-center text-3xl md:text-7xl font-asthetic text-zinc-800 font-medium ">
-          DISCOVR THE $GLORBZ
+          DISCOVR THE $HAB
         </h1>
       </div>
       <div className=" w-full bg-[#A17DB3] ">
@@ -91,7 +91,7 @@ function About() {
                 <p>
                   Holders unlock merch royalties, creator-education perks, early
                   game playtests & airdrops, special roles in KIND’s galaxy, and
-                  future revenue share from $GLORBZ-branded games, toys, and
+                  future revenue share from $HAB-branded games, toys, and
                   even eco-lodge tokenization.
                 </p>
               </div>
@@ -126,7 +126,7 @@ function About() {
                   MORE TO
                 </h1>
                 <h1 className=" text-8xl text-[#ECE8D7] font-asthetic text-center text-stroke-3">
-                  $GLORBZ
+                  $HAB
                 </h1>
                 <button className=" text-sm hover:scale-90 transition-all w-full py-2  button-shadow bg-[#ECE8D7] border border-black rounded-full font-medium">
                   <a
