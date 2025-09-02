@@ -10,11 +10,11 @@ function Footer() {
         <div className=" flex items-center justify-between">
           <p>© {new Date().getFullYear()} $HAB</p>
           <div className=" flex items-center gap-4">
-            <a href="https://x.com/kanstarsolana" target="_blank">
+            <a href="https://x.com/hab_on_sol" target="_blank">
               <FaTwitter className=" w-6 h-6" />
             </a>
 
-            <a href="https://x.com/i/communities/1945288692542922955" target="_blank">
+            <a href="https://x.com/hab_on_sol" target="_blank">
               <FaXTwitter className="w-6 h-6" />
             </a>
           </div>
