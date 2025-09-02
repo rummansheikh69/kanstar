@@ -24,7 +24,7 @@ function Header() {
             WELCOME TO THE WORLD OF
           </h1>
           <h1 className=" text-6xl md:text-8xl text-white font-asthetic text-stroke-3 ">
-            $GLORBZ
+            $HAB
           </h1>
         </div>
 
