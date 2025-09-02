@@ -33,14 +33,14 @@ function Navbar() {
         </div>
         <div className=" flex items-center gap-2 md:gap-4">
           <a
-            href="https://x.com/kanstarsolana"
+            href="https://x.com/hab_on_sol"
             target="_blank"
             className=" text-white font-semibold"
           >
             <FaTwitter className=" w-6 h-6 hover:text-zinc-200" />
           </a>
           <a
-            href="https://x.com/i/communities/1945288692542922955"
+            href="https://x.com/hab_on_sol"
             target="_blank"
             className=" text-white font-semibold"
           >
