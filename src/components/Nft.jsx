@@ -136,7 +136,7 @@ function Nft() {
 
         <div className=" flex items-center justify-center w-full mt-10">
           <button className=" hover:scale-110 transition-all px-10 py-2 button-shadow bg-[#ECE8D7] border border-black rounded-full font-medium">
-            <a href="https://x.com/i/communities/1945288692542922955" target="_blank">
+            <a href="https://x.com/hab_on_sol" target="_blank">
               Join Our Waitlist
             </a>
           </button>
