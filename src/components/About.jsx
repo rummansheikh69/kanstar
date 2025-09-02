@@ -49,23 +49,15 @@ function About() {
             {/* last text  */}
             <div className=" flex items-center text-[#ECE8D7]  leading-3">
               <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-                G
+                H
               </span>
               <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                L
+                A
               </span>
               <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                O
+                B
               </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-5  text-stroke-4 tracking-wider">
-                R
-              </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-              B
-              </span>
-              <span className=" text-9xl  font-medium font-asthetic   -rotate-6  text-stroke-4 tracking-wider">
-                Z
-              </span>
+          
              
               <span className=" text-9xl  font-medium font-asthetic  ml-14 text-[#98ED1D] -mt-5  -rotate-12  text-stroke-4 tracking-wider">
                 ?
